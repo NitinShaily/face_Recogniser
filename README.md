@@ -2,7 +2,7 @@
   
 <h2>Face regocniser using har casscading
 
-><h3>Prerequisites:  
+<h3>Prerequisites:  
   
  >>OPENCV  
  >>NUMPY  
