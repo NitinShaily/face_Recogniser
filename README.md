@@ -1,11 +1,11 @@
-<h1>** Face_Recogniser**  
+<h1> Face_Recogniser  
   
-<h2>**Face regocniser using har casscading**
+<h2>Face regocniser using har casscading
 
-<h3>Prerequisites:  
+><h3>Prerequisites:  
   
- *OPENCV  
- *NUMPY  
- *Python  
+ >>OPENCV  
+ >>NUMPY  
+ >>Python  
  
  **_Addition info: sendex on youtube_**
