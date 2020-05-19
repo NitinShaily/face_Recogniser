@@ -1,6 +1,10 @@
 <h1> Face_Recogniser  
+ 
+<h2>Work and Functionalities:  
   
-<h2>Face regocniser using har casscading
+  >>Face regocniser using har casscading  
+  >>Age Recogonisiation  
+  >>Gender Recogonisiation
 
 <h3>Prerequisites:  
   
